@@ -11,6 +11,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/miracle2138/testJenkins.git</developerConnection>
+    <tag>testJenkins-1.2</tag>
   </scm>
 
     <properties>
@@ -19,7 +20,7 @@
 
     <groupId>com.liyao</groupId>
     <artifactId>testJenkins</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
 
     <dependencies>
         <dependency>
