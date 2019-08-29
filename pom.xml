@@ -12,12 +12,12 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/lianghongming/testJenkins.git</developerConnection>
-        <tag>testJenkins-1.39</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <groupId>com.liyao</groupId>
     <artifactId>testJenkins</artifactId>
-    <version>1.39</version>
+    <version>1.40-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
