@@ -7,10 +7,11 @@
         <groupId>com.liyao</groupId>
         <artifactId>testRoot</artifactId>
         <version>1.0-SNAPSHOT</version>
+	<relativePath>../testRootPom</relativePath>
     </parent>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/miracle2138/testJenkins.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/lianghongming/testJenkins.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
